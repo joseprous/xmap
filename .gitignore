@@ -1,0 +1,4 @@
+*.o
+bin/
+Makefile
+code/tools/xmap2/obj/

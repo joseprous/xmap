@@ -1,0 +1,8 @@
+xmap, extracted from XreaL http://sourceforge.net/projects/xreal/
+
+build with:
+premake4 gmake
+make
+
+convert quake3 maps to doom3:
+./xmap2 -map2map -quake3 mapname.map
